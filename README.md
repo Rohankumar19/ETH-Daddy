@@ -1,6 +1,6 @@
 # ETH Daddy 
 
-## Technology Stack & Tools
+## Technology Stac k & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
 - Javascript (React & Testing)
